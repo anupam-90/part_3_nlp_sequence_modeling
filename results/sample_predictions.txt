@@ -1,0 +1,43 @@
+LSTM MODEL SAMPLE PREDICTIONS
+==================================================
+
+Customer Message: 'i am checking if there is any scheduled maintenance today'
+Actual Sentiment:    NEUTRAL
+Predicted Sentiment: NEUTRAL
+--------------------------------------------------
+Customer Message: 'the app experience is smooth and reliable i appreciate the quick response'
+Actual Sentiment:    POSITIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
+Customer Message: 'can you confirm whether my ticket has been assigned'
+Actual Sentiment:    NEUTRAL
+Predicted Sentiment: NEUTRAL
+--------------------------------------------------
+Customer Message: 'i have raised multiple tickets but nobody has fixed the problem my ticket number is'
+Actual Sentiment:    NEGATIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
+Customer Message: 'billing is incorrect and i was charged twice this month'
+Actual Sentiment:    NEGATIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
+Customer Message: 'i want to cancel because the service quality is poor and unreliable'
+Actual Sentiment:    NEGATIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
+Customer Message: 'the internet speed is slow and customer care is not helping'
+Actual Sentiment:    NEGATIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
+Customer Message: 'can you share the status of my router request'
+Actual Sentiment:    NEUTRAL
+Predicted Sentiment: NEUTRAL
+--------------------------------------------------
+Customer Message: 'the product quality is bad and i regret purchasing it'
+Actual Sentiment:    NEGATIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
+Customer Message: 'i have raised multiple tickets but nobody has fixed the problem my ticket number is'
+Actual Sentiment:    NEGATIVE
+Predicted Sentiment: NEGATIVE
+--------------------------------------------------
